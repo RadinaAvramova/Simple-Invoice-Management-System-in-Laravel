@@ -14,9 +14,9 @@ This is a basic invoice management system built using Laravel, allowing authenti
 **Additional Features** : Optional features such as search functionality, pagination, and basic form validation.
 
 ## Setup and Installation
-1.Clone the repository: `git clone <repository-url>`
+1.Clone the repository: `git clone https://github.com/RadinaAvramova/invoices-management-system.git`
 
-2.Navigate to the project directory: `cd invoice-management-system`
+2.Navigate to the project directory: `cd invoices-management-system`
 
 3.Install dependencies: `composer install`
 
